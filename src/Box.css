@@ -1,0 +1,7 @@
+.box {
+  padding: 1rem;
+
+  border-radius: 0.5rem;
+  box-shadow: 0 0 5px -2px #393e46;
+  margin: 1rem;
+}
